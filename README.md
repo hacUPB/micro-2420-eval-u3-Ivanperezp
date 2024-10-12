@@ -6,3 +6,10 @@ Nombre del estudiante:
 ID: 
 
 ---
+Se presenta el diagrama de estados del proyecto:
+![alt text](<Imagen de WhatsApp 2024-10-11 a las 20.48.23_61f28a59.jpg>)
+
+Se implementó un ejemplo del PWM en el SDK, el siguiente video lo presenta:
+<video controls src="Video de WhatsApp 2024-10-11 a las 20.48.24_7f45c0d8.mp4" title="Funcionamiento PWM"></video>
+
+Finalmente, se quiso implementar una prueba con el teclado, sin embargo los resultados no fueron fructíferos
