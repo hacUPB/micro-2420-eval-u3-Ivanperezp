@@ -11,5 +11,6 @@ Se presenta el diagrama de estados del proyecto:
 
 Se implementó un ejemplo del PWM en el SDK, el siguiente video lo presenta:
 <video controls src="Video de WhatsApp 2024-10-11 a las 20.48.24_7f45c0d8.mp4" title="Funcionamiento PWM"></video>
+En caso de no poder visualizar el video en línea, por favor descargarlo, se encuentra en el repositorio. 
 
 Finalmente, se quiso implementar una prueba con el teclado, sin embargo los resultados no fueron fructíferos
